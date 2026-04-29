@@ -1,15 +1,15 @@
 
-## 📘 Student Course Management System
+### 📘 Student Course Management System
 
 ---
-### Tables
+#### Tables
 1. Students 
 2. Courses 
 3. Instructors 
 4. Enrollments 
 ---
 
-### 🛠️ Virtual Environment Setup
+#### 🛠️ Virtual Environment Setup
 
 Libraries :
 
@@ -21,11 +21,11 @@ pip install psycopg2-binary
 python -m venv venv
 ```
 
-##### Create PROJECT :
+#### Create PROJECT :
 
 ![Taif_student_system Preview](./images/image.png)
 
-##### Environment Setup :
+#### Environment Setup :
 
 ![Taif_student_system Preview](./images/image-2.png)
 ---
