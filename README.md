@@ -11,7 +11,7 @@
 
 #### 🛠️ Virtual Environment Setup
 
-Libraries :
+🔰 Install Libraries :
 
 ```bash
 pip install psycopg2-binary
@@ -21,11 +21,11 @@ pip install psycopg2-binary
 python -m venv venv
 ```
 
-#### Create PROJECT :
+####  🟢 Create PROJECT :
 
 ![Taif_student_system Preview](./images/image.png)
 
-#### Environment Setup :
+#### 🟡 Environment Setup :
 
 ![Taif_student_system Preview](./images/image-2.png)
 ---
